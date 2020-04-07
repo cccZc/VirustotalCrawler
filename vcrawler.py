@@ -41,7 +41,7 @@ data/bad/','data/good/目录分别恶意样本和正常
 
 ifscan=False #True表示上传样本杀毒网站扫描，False表示下载扫描结果
 
-mykey= '56c44e07918cc73d7ec47682f219871cedb623f9a7a9ad6e3091075e582bbea1'
+mykey= '*************************************************'
 
 if ifscan:
 #
